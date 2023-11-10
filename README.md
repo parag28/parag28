@@ -9,7 +9,7 @@
 
 
 <h4 align="center">
-    <a href="https://parag28.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> <a href="https://www.linkedin.com/in/parag2812/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin">  <img src="https://img.shields.io/badge/Email-%E2%9C%89%EF%B8%8F-red?logo=email"</a>    <a href="mailto:prkaldat@syr.edu"> 
+    <a href="https://parag28.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-orange?logo=ameba&logoColor=white" alt="Portfolio"> <a href="https://www.linkedin.com/in/parag2812/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin">  <a href="mailto:prkaldat@syr.edu">  <img src="https://img.shields.io/badge/Email-%E2%9C%89%EF%B8%8F-red?logo=email"</a>   
  </a>
 
 <!-- lINE -->   
