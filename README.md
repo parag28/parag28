@@ -33,7 +33,7 @@
 </details>
 
 
-  [View My Resume](https://drive.google.com/drive/u/0/my-drive)
+  [View My Resume](https://drive.google.com/file/d/1tlqybEaYZVPuruacg_8-NwZW-Xf9F-4u/view)
 
 <hr>
 
