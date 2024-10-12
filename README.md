@@ -24,8 +24,8 @@
 <details open>
   <summary><ins><strong><em><h3> About me: </h3></em></strong></ins></summary>
      
-- 📚 Pursuing MS in *Computer Science* at Syracuse University(USA).
-- 📚 Completed BE in *Computer Engineering* from Pune University(India).
+- 📚 MS in *Computer Science* at Syracuse University(USA) - May 2024.
+- 📚 BE in *Computer Engineering* from Pune University(India) - May 2020.
 - 💼 ex-Software Engineer at *L&T Infotech*
 - 🕵️ Passionate about Programming and *building innovative things*
 
